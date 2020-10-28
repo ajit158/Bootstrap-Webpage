@@ -1,0 +1,59 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.section-dark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolstuffbtn{
+    display: block;
+    margin: auto;
+    background-color: darkred;
+}
+/*
+
+.modal-logo{
+    margin-left: 8rem;
+    height: auto;
+    width: 50%;
+}*/
+
+.btn1{
+    background-color: firebrick;
+    width: 42%;
+    margin-top: 1%;
+}
+
+.btn2{
+    background-color: firebrick;
+    width: 47%;
+    margin-top: 1%;
+}
+
+.btn3{
+    background-color: firebrick;
+    width: 40%;
+    margin-top: 1%;
+}
+    
+
+.btn-cool{
+    text-align: center;
+}
+
+.footer{
+    background-color: #cccccc;
+}
+
+.img1,.img2,.img3{
+    margin-left: 1rem;
+    padding: 1rem;
+}
+/*
+.foot-img{
+    padding: 15rem;
+
+}*/
